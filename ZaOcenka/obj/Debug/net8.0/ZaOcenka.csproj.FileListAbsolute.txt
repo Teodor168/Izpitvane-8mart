@@ -1,0 +1,14 @@
+C:\Users\STUDENTS-1212-3\Documents\TeodorIliev9a\IzpitvaneNa8Mart\ZaOcenka\bin\Debug\net8.0\ZaOcenka.exe
+C:\Users\STUDENTS-1212-3\Documents\TeodorIliev9a\IzpitvaneNa8Mart\ZaOcenka\bin\Debug\net8.0\ZaOcenka.deps.json
+C:\Users\STUDENTS-1212-3\Documents\TeodorIliev9a\IzpitvaneNa8Mart\ZaOcenka\bin\Debug\net8.0\ZaOcenka.runtimeconfig.json
+C:\Users\STUDENTS-1212-3\Documents\TeodorIliev9a\IzpitvaneNa8Mart\ZaOcenka\bin\Debug\net8.0\ZaOcenka.dll
+C:\Users\STUDENTS-1212-3\Documents\TeodorIliev9a\IzpitvaneNa8Mart\ZaOcenka\bin\Debug\net8.0\ZaOcenka.pdb
+C:\Users\STUDENTS-1212-3\Documents\TeodorIliev9a\IzpitvaneNa8Mart\ZaOcenka\obj\Debug\net8.0\ZaOcenka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENTS-1212-3\Documents\TeodorIliev9a\IzpitvaneNa8Mart\ZaOcenka\obj\Debug\net8.0\ZaOcenka.AssemblyInfoInputs.cache
+C:\Users\STUDENTS-1212-3\Documents\TeodorIliev9a\IzpitvaneNa8Mart\ZaOcenka\obj\Debug\net8.0\ZaOcenka.AssemblyInfo.cs
+C:\Users\STUDENTS-1212-3\Documents\TeodorIliev9a\IzpitvaneNa8Mart\ZaOcenka\obj\Debug\net8.0\ZaOcenka.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1212-3\Documents\TeodorIliev9a\IzpitvaneNa8Mart\ZaOcenka\obj\Debug\net8.0\ZaOcenka.dll
+C:\Users\STUDENTS-1212-3\Documents\TeodorIliev9a\IzpitvaneNa8Mart\ZaOcenka\obj\Debug\net8.0\refint\ZaOcenka.dll
+C:\Users\STUDENTS-1212-3\Documents\TeodorIliev9a\IzpitvaneNa8Mart\ZaOcenka\obj\Debug\net8.0\ZaOcenka.pdb
+C:\Users\STUDENTS-1212-3\Documents\TeodorIliev9a\IzpitvaneNa8Mart\ZaOcenka\obj\Debug\net8.0\ZaOcenka.genruntimeconfig.cache
+C:\Users\STUDENTS-1212-3\Documents\TeodorIliev9a\IzpitvaneNa8Mart\ZaOcenka\obj\Debug\net8.0\ref\ZaOcenka.dll

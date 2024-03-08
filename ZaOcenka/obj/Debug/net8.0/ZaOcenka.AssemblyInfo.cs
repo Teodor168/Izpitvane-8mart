@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ZaOcenka")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ebf64dcd29398624a0a3b33d3435011b0f534181")]
 [assembly: System.Reflection.AssemblyProductAttribute("ZaOcenka")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ZaOcenka")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

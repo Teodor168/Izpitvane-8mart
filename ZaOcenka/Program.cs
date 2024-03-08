@@ -15,7 +15,7 @@ namespace ZaOcenka
             Console.WriteLine();
             Console.WriteLine(SrednoAretmetichno);
             Console.WriteLine();
-            Console.WriteLine($"Broqt na nulite v masiva e: {(Nuli)})");
+            Console.WriteLine((Nuli));
             Console.WriteLine();
             Console.WriteLine(ElementiNaMasiva);
             Console.WriteLine();
@@ -58,14 +58,14 @@ namespace ZaOcenka
             {
                 result = sum / numbers.Length;
             }
-            int closest = Math.Abs(result);
+            int blizkoto = Math.Abs(result);
             for (int i = 1; i < numbers.Length; i++)
             {
-                if (numbers[i] == closest)
+                if (numbers[i] == blizkoto)
                 {
                     Console.WriteLine($"{i}------>{numbers[i]}");
                 }     
-            }return 0;
+            }return blizkoto;
         }
     }
 }
